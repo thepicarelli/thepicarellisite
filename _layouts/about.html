@@ -16,16 +16,14 @@ layout: default
 
     <div class="t-clearfix">
       <div class="t-float-right t-font-mono t-ml-5 t-max-w-[12rem]">
-        <p class="t-font-bold">&gt;&gt; Hey look!👇🏾 &lt;&lt;</p>
+        <p class="t-font-bold">&gt;&gt; Hey look!👇 &lt;&lt;</p>
 
         <ul style="list-style-type: '- '">
-          <li><a href="mailto:chloe@picarelli.io">📧 email</a></li>
-          <li><a href="https://instagram.com/chloexavery">📸 instagram</a></li>
-          <li><a href="https://twitter.com/chloeavery2">🐦 twitter</a></li>
-          <li><a href="https://calendly.com/kliu128">📅 order/pickup</a></li>
+          <li><a href="https://calendly.com/tutorwiththurman">📅 calendly</a></li>
+          <li><a href="https://instagram.com/thurmanpicarelli">📸 instagram</a></li>
+          <li><a href="https://twitter.com/thepicarelli">🐦 twitter</a></li>
+          <li><a href="mailto:thepicarellisite.netlify.app">📧 email</a></li>
         </ul>
-
-        <p class="t-font-bold"> &gt;&gt; blogroll &lt;&lt; </p>
 
         friends:
         <ul style="list-style-type: '- '">
@@ -49,10 +47,6 @@ layout: default
       {{ content }}
       {% include newsletter_signup.html %}
 
-      {% if page.blog -%}
-      <!-- News -->
-      {%- include blog.html %}
-      {%- endif %}
     </div>
 
     {% if page.selected_papers -%}
