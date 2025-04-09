@@ -9,10 +9,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-This blog is a safe space I have curated for all--safe from any crumb of internet-based productivity for you, and safe from any longform in-person conversation about myself for me. The words and furnishings of this home page are in the throes of renovation, constantly adapting to what feels right, much like your tongue is right now. Now that we are all on the same page (clearly the home page still), I can shamelessly usher you to explore some of the cul-de-sacs of this site. If I have not yet quenched your digital thirst, try to [read](/reads) . Here's what I want you to read, but this time I'm the [author](/blog/). If you can't read, [photos](https://www.icloud.com/sharedalbum/#B0iJtdOXmkYghC).
+This blog is a safe space--safe from any crumb of internet-based productivity for you, and safe from any longform in-person conversation about myself for me. The words and furnishings of this home page are in the throes of renovation, constantly adapting to what feels right, much like your tongue is right now.
 
-This spring, I'm working with [Sidney](https://shough.me) on Chord, a consumer AI startup.
+Now that we are all on the same page (clearly the home page still), I can shamelessly usher you to explore the many cul-de-sacs of this site. Here is what I want everyone to [read](/reads). Here is what I want just you to read, because I [wrote](/blog/) it. If you can't read...[photos](https://www.icloud.com/sharedalbum/#B0iJtdOXmkYghC).
 
-You might want to see my [projects](https://github.com/kliu128) or
-[tweets](https://twitter.com/kliu128). If you have cool thoughts, know the fundamental causes of the 1970s Great Stagnation, or just want to reach out, don't hesitate to contact me through
-[e-mail](mailto:kevin@kliu.io) or [videophone](https://calendly.com/kliu128).
+When I'm not drowning in coffee attempting to redecorate this site, you can find me at the library tutoring a growing tribe of highly capable math students. Summer tutoring starts June 2nd! Book a session or free consultation on [calendly](https://www.calendly.com/tutorwiththurman).
+
+This spring, my partner [Chloe](https://www.instagram.com/chloexavery) and I are spending May in Ireland with the sheep, sharks, and flowers. Also we're getting married!
+
+Let's chat anytime :) 
